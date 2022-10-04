@@ -1,0 +1,4 @@
+LOCAL_DIR=/home/cloudera/technical_support
+HADOOP_MAIN_DIR=/tmp/technical_support
+OPTIONS="jdbc:hive2://localhost:10000/default -n hadoop -d org.apache.hive.jdbc.HiveDriver"
+DB=agents_db
