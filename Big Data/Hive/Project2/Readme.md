@@ -21,18 +21,18 @@ Change config.txt to customize the local, hadoop directories, the db name & the 
 * Part II: Aggregation Queries
 1. Top 5 Violations
 2. 
-a. Top 5 vehicle body type which got a parking ticket
-b. Top 5 vehicle make which got a parking ticket
+	- Top 5 vehicle body type which got a parking ticket
+	- Top 5 vehicle make which got a parking ticket
 3. 
-a. Top 5 Violating Precincts
-b. Top 5 Issuer Precincts
+	- Top 5 Violating Precincts
+	- Top 5 Issuer Precincts
 4. Violation code frequency across 3 precincts which have issued the most number of tickets
 5. Create view to divide discrete bins of violation time
 6. 3 most commonly occurring violations across 6 equal discrete bins of violation time
 7. The most common time bin for each of the 3 most commonly occuring violation codes
 8. 
-a. Creating view which divides issue date into different seasons
-b. 3 most commonly occurring violations for each of season in NYC
+	- Creating view which divides issue date into different seasons
+	- 3 most commonly occurring violations for each of season in NYC
 
 ### Solution
 * Run Analysis: **sh assignment.sh**
