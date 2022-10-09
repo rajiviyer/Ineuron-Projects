@@ -1,0 +1,4 @@
+LOCAL_DIR=/home/cloudera/parking_violations
+HADOOP_MAIN_DIR=/tmp/parking_violations
+OPTIONS="jdbc:hive2://localhost:10000/default -n hadoop -d org.apache.hive.jdbc.HiveDriver"
+DB=parking_violation_db
