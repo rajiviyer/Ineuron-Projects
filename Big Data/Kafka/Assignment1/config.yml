@@ -1,0 +1,10 @@
+API_KEY: <>
+API_SECRET_KEY: <>
+BOOTSTRAP_SERVER: <>
+ENDPOINT_SCHEMA_URL: <>
+SCHEMA_REGISTRY_API_KEY: <>
+SCHEMA_REGISTRY_API_SECRET: <>
+SECURITY_PROTOCOL: "SASL_SSL"
+SSL_MECHANISM: "PLAIN"
+FILEPATH: <>
+DATA_COLUMNS: ['order_no', 'order_date', 'item_name', 'quantity', 'product_price', 'total_products']
