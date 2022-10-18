@@ -1,0 +1,10 @@
+API_KEY: "FXWP4VGNZ5ASSGTZ"
+API_SECRET_KEY: "btIFws5da9d8DEdGw0IwKxLjFMGyF6u6YftAZxmfKTeX469KcbekgdX5RzHhRW7a"
+BOOTSTRAP_SERVER: "pkc-xrnwx.asia-south2.gcp.confluent.cloud:9092"
+ENDPOINT_SCHEMA_URL: "https://psrc-7qgn2.us-central1.gcp.confluent.cloud"
+SCHEMA_REGISTRY_API_KEY: "FZ3W3AWZXODL3Z3F"
+SCHEMA_REGISTRY_API_SECRET: "Co+QzTGzgzDkgOe3bbe8E8eXn8Fkot2wgJ14/vnNgsy6+uVawg2Cv10eC19S2aF9"
+SECURITY_PROTOCOL: "SASL_SSL"
+SSL_MECHANISM: "PLAIN"
+FILEPATH: "D:\\Rajiv\\Work\\Datascience\\Data Engineering\\Ineuron-Projects\\Big Data\\Kafka\\Assignment1\\restaurant_orders.csv"
+DATA_COLUMNS: ['order_no', 'order_date', 'item_name', 'quantity', 'product_price', 'total_products']
